@@ -1,1 +1,153 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T17:08:16.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pn_vEnlPGEGejvwpsF6Y" version="21.0.6" type="github"><diagram name="Page-1" id="AddEiYS7WW8PrMtlkH1x">7Zvbc6o4GMD/Gqe7D+0QEC+PVqvbmXPprnvmbJ86EVLJFAgbgpf+9ScJAYVo7SoqjvtQCx8xkO+WXz5iw+oHixGFkfeVuMhvmIa7aFiDhmmCptXk/4RkmUraQAmmFLuq0Uowxu9ICQ0lTbCL4kJDRojPcFQUOiQMkcMKMkgpmRebvRK/eNcITpEmGDvQ16U/scu8VNqxjZX8D4SnXnZnYKgrAcwaK0HsQZfM10TWQ8PqU0JYehQs+sgXysv0kn5vuOVq/mAUhewzX4i/f/vijd8m75Puy6w1hX+af09uVS8z6CdqwI+xULGHxT/I/+Zowj9/PPKPCYyRK0aC6Aw7vP1QjYwtM3VRjwSThOv8fu5hhsYRFO0Gc+4cXOaxwOdngB/qT589CqIMLdZEajQjRALE6JI3UVe7SrHKs8yWOp+v7ASaSuat2ygTQuUb07zrlfr4gdLgf9CmqWlTUxAK3Z5wS37m+DCOsVPUCyVJ6CJxE+MjLSG34La6jtaUYG/QQSajyIcMz4rOvkkv6g5PBPMnyU1gWkUbWGb3zi52EpOEOkh9b909S11ZrZ1dMUiniGldSVPlQ9/fei3Nes8PY92AXPNf4ISnuYLdoI+noTAqtxSiXCD8GPM80lMXAuy6oo97imL8DieyP2HjSIxHjtC+b9iDjVb/0NvKAZMnQ3WTQr7ZFEi3xp3RbJkF9YPD/CNrQl5fY3QUa1lVxxpaYPaPOOZul549q3bieLBYazZY7orP1Ot3J966xDEoBp8NSinys1EMWjs6OnIMtzWv+Pa9xiGcOXEVIWx1Cpq/rX0ENzVbjcSNDJcEEIcvXMmMYoe9cHCiOJzyK4SKz4j42BFjRwsHRQyTUBILj+apx4+G/Sfx+KErmRLKwdxQ4nOKNIc0Ce9wOCNviN5IlBQXoe//4EwT32iesgNiYBylzPmKFyKPVEE1LauMNbaONdYmrLGOhTUdzVA9iqTOkXSwfxNuKsmLwluVVifiCCa8TSiCiAn91IoX7bPjYrfqKWyrkuoyzZR8G4DKcHFDV0eearKZ7VLmmszbrhMXgb7SPTDYuLbpcg0Yxenz+rUVMsqzncyY+uvFMGMZ9UB3T2YsJ2ato2MHsr5sr/fCD2yb+q4klPWlXy8k4TIgiYQQx0FxnGGIKGH1fZIIGvwrEaSYVa/4XUSrkMin9n0yF8WtvjCAj2CMUm0y6LAcdbKOxshJKGZCkQzBoCHqilTqbIbRXPOcM1BkeXq0zw6RQMf9n1h+LdXtyiyJ1P1IYvxj72uu3TWYlMxfI5QEZ2dJYFc9v21VU03mnzJM2u3KYHJDV8eegy6t+Jj725XOQXqhafSZWkOa62AU+dw86Wp5lfj4zMUjkP0W/94QtY40FVJ5WsMZBZx/StELEwfmvEprwDXJk8DOk5kyXcvek9T1rtqtE7O6XjOp9aI7d9GrrPCaeonkQ+brvSeysNgbZAmwNxiOCwBYsyJiuwYvnSuvbNQ9o5XJr1PdW+cNXR05o2XWuhjy2xoz10F+pl59+P+1lR5I7fO/tjL1isOBifE68LBr7IuHJR/odk4Lh6ZeA6k1HOYOep1wqJc8Lh0Oy0mwDlsS9ULFgUmw7gnNNopGOGBPYnkvxun3JJp6iaPmdJj525XSYeV7Ok67LTFLyjWJ5aZZhpOmsWcs26Xc3DwxnGSp5GLgpMr9IhcHJ5ZeVHk69K1wumwL4JukmxRmJLVwIWIeceUBkjvphoS60jP4ghBSN9Yc5QxLvK0RtE43YBPdlDcBV0Y3ll48uXozAbBlFXYMM4naRP4LpjT4Vr8Dsx5+AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-16T18:10:34.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wLRSQQm-0NUY3NmUGJTi" version="21.0.6" type="github">
+  <diagram name="Page-1" id="AddEiYS7WW8PrMtlkH1x">
+    <mxGraphModel dx="1434" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-1" value="Is this a web UI based service?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="260" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="329.5" as="sourcePoint" />
+            <mxPoint x="360" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-6" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.0462" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sONLhSkbzb9_v6gaQ2Tb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="510" as="sourcePoint" />
+            <mxPoint x="160" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-7" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.38" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-4" value="Get domain_restrict_sharing org policy exception through FCP and grant &#39;roles/run.invoker&#39; to &#39;allUsers&#39;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="630" y="265" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-8" value="Are the requests able to be authenticated?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="50" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="119.5" as="sourcePoint" />
+            <mxPoint x="360" y="119.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-10" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.0462" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="sONLhSkbzb9_v6gaQ2Tb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="190" as="sourcePoint" />
+            <mxPoint x="290" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-12" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.0462" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-13" value="Anonymous access to a Cloud Run service is not allowed, please contact the Cloud Security team for review" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="55" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-14" value="Will the service use GCP IAM for authentication" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="510" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="579.5" as="sourcePoint" />
+            <mxPoint x="360" y="579.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-16" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.0462" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-17" value="Grant &#39;roles/run.invoker&#39; to the applicable service account(s) or user(s)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="515" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="650" as="sourcePoint" />
+            <mxPoint x="159.5" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-19" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.38" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-20" value="Will the service use Azure AD or ADFS for auth?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="760" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="829.5" as="sourcePoint" />
+            <mxPoint x="360" y="829.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-22" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.0462" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-23" value="Get domain_restrict_sharing org policy exception through FCP and grant &#39;roles/run.invoker&#39; to &#39;allUsers&#39;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="765" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="900" as="sourcePoint" />
+            <mxPoint x="160" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-25" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.38" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-26" value="Will the service use Azure AD or ADFS for auth?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="260" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="329.5" as="sourcePoint" />
+            <mxPoint x="630" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-28" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.0462" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sONLhSkbzb9_v6gaQ2Tb-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.5" y="405" as="sourcePoint" />
+            <mxPoint x="560" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-30" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="sONLhSkbzb9_v6gaQ2Tb-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.38" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-31" value="Please contact the Cloud Security team for review to make sure auth method meets Ford standards" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="560" y="480" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-32" value="Please contact the Cloud Security team for review to make sure auth method meets Ford standards" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="110" y="980" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
