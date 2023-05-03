@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T18:42:41.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0XhxrQRfOgzQ7jO2WZ1l" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T18:08:15.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8Qx13J8msqdx7RsdfUkm" version="21.1.7" type="github">
   <diagram name="Page-1" id="AddEiYS7WW8PrMtlkH1x">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-32" value="Please contact the&amp;nbsp;Infrastructure Architecture team for review" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="sONLhSkbzb9_v6gaQ2Tb-32" value="Please consult your architect, DevEn or the Apigee team" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="105" y="760" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DT6BP1eHvIClyhgtIrdt-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DT6BP1eHvIClyhgtIrdt-7" edge="1">
@@ -88,7 +88,7 @@
         <mxCell id="DT6BP1eHvIClyhgtIrdt-7" value="Get domain_restrict_sharing org policy exception through FCP and grant &#39;roles/run.invoker&#39; to &#39;allUsers&#39;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="55" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="As1F8Z3RwfuuCLhKvIUX-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Use Google IAM to secure call from Apigee to instance.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Use AzureAD/ADFS for application security.&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+        <mxCell id="As1F8Z3RwfuuCLhKvIUX-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Use Google IAM to secure call from Apigee to instance.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Use AzureAD/ADFS for application security.&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="260" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
