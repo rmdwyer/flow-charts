@@ -1,4 +1,4 @@
-<mxfile modified="2023-10-05T18:07:35.044Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Nsbybv17Y5lZ0Ux3wI2l" version="21.8.2" type="github">
+<mxfile modified="2023-10-05T18:08:17.388Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IeAsEFvnRXx8XQgQBj4b" version="21.8.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -131,9 +131,6 @@
             </Array>
             <mxPoint x="370" y="520" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="n82BhJpyqR-VbO6Vhq0N-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="270" width="70" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
