@@ -1,4 +1,4 @@
-<mxfile modified="2023-10-05T18:08:17.388Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IeAsEFvnRXx8XQgQBj4b" version="21.8.2" type="github">
+<mxfile modified="2023-10-05T18:15:01.523Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qWUZN9VrDEDLE5XHGr5V" version="21.8.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -32,9 +32,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="180" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rPR1bp3hhIcsgaH52j6V-57" value="no no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="14" source="rPR1bp3hhIcsgaH52j6V-26" target="rPR1bp3hhIcsgaH52j6V-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rPR1bp3hhIcsgaH52j6V-26" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="14" vertex="1">
           <mxGeometry x="240" y="150" width="130" height="60" as="geometry" />
@@ -101,7 +98,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rPR1bp3hhIcsgaH52j6V-32" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" parent="1" vertex="1">
+        <mxCell id="rPR1bp3hhIcsgaH52j6V-32" value="client web browser" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" parent="1" vertex="1">
           <mxGeometry x="80" y="260" width="78" height="76" as="geometry" />
         </mxCell>
         <mxCell id="rPR1bp3hhIcsgaH52j6V-40" value="Azure AD" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" parent="1" vertex="1">
